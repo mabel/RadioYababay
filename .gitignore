@@ -1,0 +1,9 @@
+.tmp
+server/node_modules
+server/err*
+server/mpc.js
+server/lighttpd.conf
+server/crontab.txt
+server/users.ldif
+server/bash/loadPlst.sh
+server/bash/watchDog.sh
